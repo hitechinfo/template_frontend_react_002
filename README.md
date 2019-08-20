@@ -2,6 +2,7 @@
 Semantic UI를 활용한 React Template 입니다.
 
 ### 사전준비
+- GIT 설치
 - npm LTS 버전 설치
 
 ### 실행방법
