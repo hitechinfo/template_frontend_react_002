@@ -19,4 +19,5 @@ Semantic UI를 활용한 React Template 입니다.
 - 메뉴영역 수정 (src\containers\menu\MenuContainer.js 및 src\components\menu\MainMenu.js 참고)
 - "/" 으로 연결되는 메인영역 수정 (src\App.js 참고)
 2. Component 또는 Container로 메인영역에 들어갈 새로운 UI 작성 (src\containers\list\ListContainer.js 및 src\components\list\SampleList.js 참고)
-3. Routing 정보 등록 (src\routes\index.js 참고)
+3. Redux 연계가 필요한 경우 액션 및 리듀서 정의 (src\modules\list.js 및 src\modules\index.js 참고)
+4. Routing 정보 등록 (src\routes\index.js 참고)
